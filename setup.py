@@ -4,7 +4,7 @@ import swenc
 
 
 setup(name='swenc',
-      #version=swift3.version,
+      version='0.1',
       description='Swift object encryption Middleware',
       author='pc',
       #author_email='openstack@lists.launchpad.net',
